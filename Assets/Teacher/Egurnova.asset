@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97e8ef32d54691f4e9599b9ad9155e78, type: 3}
+  m_Name: Egurnova
+  m_EditorClassIdentifier: 
+  id: 1
+  name: "\u041C\u0430\u0440\u0438\u044F \u0418\u0432\u0430\u043D\u043E\u0432\u043D\u0430"
+  dialog: {fileID: 11400000, guid: e8eaacf9166e9f442a33fe208a5ab775, type: 2}
+  cardPersonal: {fileID: 11400000, guid: 2454ff2c9c395be44a197dcec82a0122, type: 2}

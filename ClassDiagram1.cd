@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CardRotate">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\CardRotate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoorOpenClose">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAACAgAAAAACAAAAAAAAAAAIARQIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\DoorOpenClose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuScript">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAEAAAAAAAIAgAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\MenuScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerLoop">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQIACAAACAQAAAAAAAAAAAAAAAAAAAARAAAAAAEAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerLook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerMovement">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAABAQhAAAAAEAAAAAAAAAAAAAQAIAAQAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\PlayerMovement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneManage">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAgAAAEAAAAAAAIARQEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="startPlayer">
+    <Position X="1" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\startPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Answer">
+    <Position X="1.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgI=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Answer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollectableItem" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAgAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\CollectableItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dialogs" Collapsed="true">
+    <Position X="5.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAwCEAAAAAAAAQAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Dialogs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory" Collapsed="true">
+    <Position X="7.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAgAAAAAAAAAAAAAAAAAgATAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\InventoryManage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventorySlot" Collapsed="true">
+    <Position X="4" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\InventoryScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryScript" Collapsed="true">
+    <Position X="2.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAECAAIgACAAAAAgAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\InventoryScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InventoryUI" Collapsed="true">
+    <Position X="5.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACBQAAAAICAAAEAAAAAAAAAAAAAAAAIAAAAAAAgQAAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\InventoryUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item" Collapsed="true">
+    <Position X="7.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAEEAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NewBehaviourScript" Collapsed="true">
+    <Position X="2.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgAAACAAAAAAAAAAAAQAAAAAAgASAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\PageInventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teacher" Collapsed="true">
+    <Position X="4" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAUAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\Inventory\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
